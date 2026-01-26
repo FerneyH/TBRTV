@@ -1,8 +1,8 @@
-# TBRTV Field Data
+# RTV Field Data
 
-This repository contains data from a double-blinded, placebo-controlled evaluation of a transmission blocking reservoir targeted vaccine (TBRTV) against Borrelia burgdorferi, conducted in Maryland, USA.
+This repository contains data from a double-blinded, placebo-controlled evaluation of a transmission blocking reservoir targeted vaccine (RTV) against Borrelia burgdorferi, conducted in Maryland, USA.
 
-The study evaluated the effectiveness of TBRTV on B. burgdorferi transmission over five years by monitoring mice, ticks collected from mice, ticks collected by drag sampling, and dogs across seven field sites.
+The study evaluated the effectiveness of RTV on B. burgdorferi transmission over five years by monitoring mice, ticks collected from mice, ticks collected by drag sampling, and dogs across seven field sites.
 
 ### Variables Included
 
@@ -10,7 +10,7 @@ _`Year`_: Observation year (2020–2024);
 
 _`Site`_: Field site identifier;
 
-_`Group`_: Intervention assignment (TBRTV or Ctrl);
+_`Group`_: Intervention assignment (RTV or Ctrl);
 
 _`Location`_: Geographic region;
 
